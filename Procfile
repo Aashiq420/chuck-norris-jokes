@@ -1,1 +1,1 @@
-web: gunicorn cnj:app
+web: gunicorn cnj:cnj
